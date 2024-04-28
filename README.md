@@ -9,7 +9,12 @@ Ofrecemos dos productos: 1) un sitio web y 2) una aplicación para móviles Andr
 
 2) La app movil, entonces, amplía el servicio de la venta de prendas haciendo que los usuarios tengan la posibilidad de pagar por una sesión de 30 minutos donde escanearan su cuerpo completo y de allí se obtendran las medidas necesarias para la producción de cualquier prenda comprada en el sitio. La aplicación movil guarda actualmente el usuario y el turno guardado con los datos del mismo mientras que el ecommerce tiene tanto un carrito de compras, y además la gestión completa del usuario, guarda sus datos personales de cuenta así como información de sus medidas a través de otro formulario, también el sitio ecommerce tenía un acceso de administrador que permitía subir las prendas a comercializar y asignar su valor, color, e imagen.
 
-<p><h2>QUIENES SOMOS</h2>
+## QUIENES SOMOS
+- Acuña, Jonatan Ezequiel: Desarrollador 
+- Amaya, Aisha Jennifer: Desarrolladora
+- Antonini, Carla Gisele: Scrum Master y Desarrolladora
+- Fiore, Agostina Maria: Desarrolladora
+- Ponce, Dalma Florencia: Desarrolladora
 
 
 # VIRTUAL-TRENDS-Proyecto-App-Mobile
