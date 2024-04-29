@@ -10,6 +10,7 @@ Ofrecemos dos productos: 1) un sitio web y 2) una aplicación para móviles Andr
 Los repositorios de ambos proyectos los encontrarás dentro de esta misma organización en:
 
 ***Repositorio WebSite*** -> https://github.com/VirtualTrends/webSite
+
 ***Repositorio Mobile***  -> https://github.com/VirtualTrends/appMobile
 
 1) El producto consiste en un e-commerce llamado VIRTUAL TRENDS que ofrece a través de su sitio web prendas de indumentaria masculina, femenina y unisex, a través de imágenes 3D realizadas con tecnología de vanguardia a través del software CLO 3D. El sitio web ofrece actualmente la carga del talle personalizado (medidas corporales) a través de un formulario que el usuario debe completar. Sin embargo, muchos usarios no sabían tomarse sus propias medidas y requerían asistencia de terceros. VIRTUAL TRENDS decidió tomar estas consideraciones y ampliar su servicio y funcionalidad mediante una aplicación móvil que permite gestionar turnos para acceder a un escaneo corporal. 
