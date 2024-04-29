@@ -1,5 +1,7 @@
 # VirtualTrends-2024
 
+[](assets-readme/VT-LOGO.png)
+
 Requerimientos El objetivo de este proyecto es potenciar el desarrollo de la aplicación web y la aplicación móvil de Virtual Trends mediante el marco de trabajo Scrum.
 
 <p><h1>Proyecto VIRTUAL TRENDS</h1>
