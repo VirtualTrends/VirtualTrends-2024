@@ -4,6 +4,10 @@
 
 Requerimientos El objetivo de este proyecto es potenciar el desarrollo de la aplicación web y la aplicación móvil de Virtual Trends mediante el marco de trabajo Scrum.
 
+La organización del proyecto, que incluye el manejo de tres repositorios (dos para desarrollos de mejoras y este mismo repositorio que está realizado para contener documentación-diagramas-assets y demás,etc) se realizará en un mismo tablero para Sprint0:
+
+***@VirtualTrends-Tableros-Sprint0*** -> https://github.com/orgs/VirtualTrends/projects/1
+
 <p><h1>Proyecto VIRTUAL TRENDS</h1>
 Ofrecemos dos productos: 1) un sitio web y 2) una aplicación para móviles Android.
 
