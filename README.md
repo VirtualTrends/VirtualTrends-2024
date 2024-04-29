@@ -12,15 +12,14 @@ Ofrecemos dos productos: 1) un sitio web y 2) una aplicación para móviles Andr
 ## QUIENES SOMOS
 
 ### INTEGRANTES 
-<p><h5>(De arriba hacia abajo ordenados alfabéticamente)</h5></p>
+<p><h5>(De arriba hacia abajo ordenados alfabéticamente)</h5>
 
-###
 -   <a href="https://github.com/Yoniea">Acuña, Yonatan</a> 
 -	<a href="https://github.com/AishaAmaya">Amaya, Aisha Jennifer: Desarrolladora</a>
 -   <a href="https://github.com/Gaghyta">Antonini, Carla Gisele: Scrum Master. Diseñadora y Desarrolladora</a>
 -	<a href="https://github.com/Ago95Fiore">Fiore, Agostina Maria: Desarrolladora</a>
 -	<a href="https://github.com/DalmaPOnce">Ponce, Dalma Florencia: Desarrolladora</a>
-
+</p>
 
 # VIRTUAL-TRENDS-Proyecto-App-Mobile
 Virtual Trend consiste en un e-commerce que fomenta no sólo el comercio virtual (no in situ) sino la producción y personalización del talle a través de la virtualidad y sus posibilidades de proyección . A la vez, ayuda a tender lazos entre diferentes marcas y el nuevo tipo de consumidor que disfruta de la practicidad de las compras virtuales pero que desea, a la vez, una prenda hecha a medida. Nosotros gestionamos la unión de marcas y diseñadores que proyectan sus colecciones a través de las tecnologías de software 3D especializado.
