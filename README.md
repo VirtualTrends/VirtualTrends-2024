@@ -12,7 +12,7 @@ Ofrecemos dos productos: 1) un sitio web y 2) una aplicación para móviles Andr
 ## QUIENES SOMOS
 
 ### INTEGRANTES 
-<p>(De arriba hacia abajo ordenados alfabéticamente)</p>
+<p><h5>(De arriba hacia abajo ordenados alfabéticamente)</h5></p>
 -	
 -   <a href="https://github.com/Yoniea">Acuña, Yonatan</a> 
 -	<a href="https://github.com/AishaAmaya">Amaya, Aisha Jennifer: Desarrolladora</a>
