@@ -7,6 +7,12 @@ Requerimientos El objetivo de este proyecto es potenciar el desarrollo de la apl
 <p><h1>Proyecto VIRTUAL TRENDS</h1>
 Ofrecemos dos productos: 1) un sitio web y 2) una aplicación para móviles Android.
 
+Los repositorios de ambos proyectos los encontrarás dentro de esta misma organización en:
+
+***Repositorio WebSite*** -> https://github.com/VirtualTrends/webSite
+
+***Repositorio Mobile***  -> https://github.com/VirtualTrends/appMobile
+
 1) El producto consiste en un e-commerce llamado VIRTUAL TRENDS que ofrece a través de su sitio web prendas de indumentaria masculina, femenina y unisex, a través de imágenes 3D realizadas con tecnología de vanguardia a través del software CLO 3D. El sitio web ofrece actualmente la carga del talle personalizado (medidas corporales) a través de un formulario que el usuario debe completar. Sin embargo, muchos usarios no sabían tomarse sus propias medidas y requerían asistencia de terceros. VIRTUAL TRENDS decidió tomar estas consideraciones y ampliar su servicio y funcionalidad mediante una aplicación móvil que permite gestionar turnos para acceder a un escaneo corporal. 
 
 2) La app movil, entonces, amplía el servicio de la venta de prendas haciendo que los usuarios tengan la posibilidad de pagar por una sesión de 30 minutos donde escanearan su cuerpo completo y de allí se obtendran las medidas necesarias para la producción de cualquier prenda comprada en el sitio. La aplicación movil guarda actualmente el usuario y el turno guardado con los datos del mismo mientras que el ecommerce tiene tanto un carrito de compras, y además la gestión completa del usuario, guarda sus datos personales de cuenta así como información de sus medidas a través de otro formulario, también el sitio ecommerce tenía un acceso de administrador que permitía subir las prendas a comercializar y asignar su valor, color, e imagen.
