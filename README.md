@@ -1,6 +1,6 @@
 # VirtualTrends-2024
 
-[](assets-readme/VT-LOGO.png)
+[VT](https://github.com/VirtualTrends/VirtualTrends-2024/tree/CAntoniniVT_Sp0/assets-readme/VT-LOGO.png)
 
 Requerimientos El objetivo de este proyecto es potenciar el desarrollo de la aplicación web y la aplicación móvil de Virtual Trends mediante el marco de trabajo Scrum.
 
