@@ -26,8 +26,6 @@ Los repositorios de ambos proyectos los encontrarás dentro de esta misma organi
 ### INTEGRANTES 
 <p><h5>(De arriba hacia abajo ordenados alfabéticamente)</h5>
 
--   <a href="https://github.com/Yoniea">Acuña, Yonatan</a> 
--	<a href="https://github.com/AishaAmaya">Amaya, Aisha Jennifer: Desarrolladora</a>
 -   <a href="https://github.com/Gaghyta">Antonini, Carla Gisele: Scrum Master. Diseñadora y Desarrolladora</a>
 -	<a href="https://github.com/Ago95Fiore">Fiore, Agostina Maria: Desarrolladora</a>
 -	<a href="https://github.com/DalmaPOnce">Ponce, Dalma Florencia: Desarrolladora</a>
