@@ -28,7 +28,6 @@ Los repositorios de ambos proyectos los encontrarás dentro de esta misma organi
 
 -   <a href="https://github.com/Gaghyta">Antonini, Carla Gisele: Scrum Master. Diseñadora y Desarrolladora</a>
 -	<a href="https://github.com/Ago95Fiore">Fiore, Agostina Maria: Desarrolladora</a>
--	<a href="https://github.com/DalmaPOnce">Ponce, Dalma Florencia: Desarrolladora</a>
 </p>
 
 # VIRTUAL-TRENDS-Proyecto-App-Mobile
