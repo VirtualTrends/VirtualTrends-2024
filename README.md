@@ -30,7 +30,7 @@ Los repositorios de ambos proyectos los encontrarás dentro de esta misma organi
 -	<a href="https://github.com/Ago95Fiore">Fiore, Agostina Maria: Desarrolladora</a>
 </p>
 
-# VIRTUAL-TRENDS-Proyecto-App-Mobile
+# VIRTUAL-TRENDS-Proyecto-Web-Site
 Virtual Trend consiste en un e-commerce que fomenta no sólo el comercio virtual (no in situ) sino la producción y personalización del talle a través de la virtualidad y sus posibilidades de proyección . A la vez, ayuda a tender lazos entre diferentes marcas y el nuevo tipo de consumidor que disfruta de la practicidad de las compras virtuales pero que desea, a la vez, una prenda hecha a medida. Nosotros gestionamos la unión de marcas y diseñadores que proyectan sus colecciones a través de las tecnologías de software 3D especializado.
 Ofrecemos a la comunidad un carrito de compras y la gestión de las ventas, y envíos, a través de nuestra plataforma, la cual le permite al cliente, a la hora de comprar un producto, cargar no solamente sus datos personales sino también sus medidas -para una confección personalizada- y otras preferencias que se definen antes de la confección, como pueden ser, en algunos productos, preferencias constructivas -de las prendas o accesorios- en cuanto a color o estampa.
 
