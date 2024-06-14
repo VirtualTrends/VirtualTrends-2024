@@ -17,6 +17,9 @@ Los repositorios de ambos proyectos los encontrarás dentro de esta misma organi
 
 ***Repositorio Mobile***  -> https://github.com/VirtualTrends/appMobile
 
+
+
+
 1) El producto consiste en un e-commerce llamado VIRTUAL TRENDS que ofrece a través de su sitio web prendas de indumentaria masculina, femenina y unisex, a través de imágenes 3D realizadas con tecnología de vanguardia a través del software CLO 3D. El sitio web ofrece actualmente la carga del talle personalizado (medidas corporales) a través de un formulario que el usuario debe completar. Sin embargo, muchos usarios no sabían tomarse sus propias medidas y requerían asistencia de terceros. VIRTUAL TRENDS decidió tomar estas consideraciones y ampliar su servicio y funcionalidad mediante una aplicación móvil que permite gestionar turnos para acceder a un escaneo corporal. 
 
 2) La app movil, entonces, amplía el servicio de la venta de prendas haciendo que los usuarios tengan la posibilidad de pagar por una sesión de 30 minutos donde escanearan su cuerpo completo y de allí se obtendran las medidas necesarias para la producción de cualquier prenda comprada en el sitio. La aplicación movil guarda actualmente el usuario y el turno guardado con los datos del mismo mientras que el ecommerce tiene tanto un carrito de compras, y además la gestión completa del usuario, guarda sus datos personales de cuenta así como información de sus medidas a través de otro formulario, también el sitio ecommerce tenía un acceso de administrador que permitía subir las prendas a comercializar y asignar su valor, color, e imagen.
@@ -29,6 +32,14 @@ Los repositorios de ambos proyectos los encontrarás dentro de esta misma organi
 -   <a href="https://github.com/Gaghyta">Antonini, Carla Gisele: Scrum Master. Diseñadora y Desarrolladora</a>
 -	<a href="https://github.com/Ago95Fiore">Fiore, Agostina Maria: Desarrolladora</a>
 </p>
+
+
+### DISEÑO UX UI  
+Diseño gfráfico y de interfaz por Carla Antonini
+
+Actualización de link de Figma por tema de acceso:
+<a href="https://www.figma.com/design/WD7doXf6ZDKkadCCuAmOzs/WEB-y-MOBILE-SISTEMA-VIRTUALTRENDS?node-id=1250-3835&t=44Jpi4t294AykrL7-1"> LINK AQUI</a>
+
 
 # VIRTUAL-TRENDS-Proyecto-Web-Site
 Virtual Trend consiste en un e-commerce que fomenta no sólo el comercio virtual (no in situ) sino la producción y personalización del talle a través de la virtualidad y sus posibilidades de proyección . A la vez, ayuda a tender lazos entre diferentes marcas y el nuevo tipo de consumidor que disfruta de la practicidad de las compras virtuales pero que desea, a la vez, una prenda hecha a medida. Nosotros gestionamos la unión de marcas y diseñadores que proyectan sus colecciones a través de las tecnologías de software 3D especializado.
